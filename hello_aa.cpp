@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("fhsdfkljsdlfjsdlf\n");
+    printf("ono edit korsi ekhnon\n");
     return 0;
 }
